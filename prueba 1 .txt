@@ -1,4 +1,4 @@
 prueba del primer commit 
- segunda linea de comando . 
-   linea desde la rama desarrollo
-  cuarta linea rama main
+segunda linea de comando . 
+linea desde la rama desarrollo
+cuarta linea rama main
